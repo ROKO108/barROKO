@@ -1,7 +1,7 @@
 {
   "name": "barROKO",
   "main": "./lib/barROKO",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tool-bar plugin that adds an 'barROKO toolbar' with many commonly used actions",
   "repository": "https://github.com/ROKO108/barROKO",
   "license": "MIT",
