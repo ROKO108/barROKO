@@ -3,10 +3,10 @@
   "main": "./lib/barROKO",
   "version": "0.8.2",
   "description": "A tool-bar plugin that adds an 'barROKO toolbar' with many commonly used actions",
-  "repository": "https://github.com/varemenos/atom-toolbar-barROKO",
+  "repository": "https://github.com/ROKO108/barROKO",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">1.0.0"
   },
   "keywords": [
     "toolbar",
